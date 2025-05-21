@@ -8,6 +8,7 @@
 /storage/pail
 /vendor
 .env
+docker-compose.yml
 .env.backup
 .env.production
 .phpactor.json
